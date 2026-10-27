@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Yandex Metrica is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://metrica.yandex.com/
+Yandex Metrica is a free web analytics service provided by Yandex, offering detailed traffic statistics, user behavior analysis, and marketing tools for website owners and advertisers. It includes features such as real‑time reporting, goal tracking, heatmaps, and integration with Yandex.Direct and other Yandex services, helping businesses optimize their online presence and advertising spend.
+
+**Areas:** Analytics · WebAnalytics · Marketing · Yandex · Russia · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://metrica.yandex.com/)
+- [Documentation](https://b2b.yandex.ru/adv/metrika)
+- [Getting started](https://b2b.yandex.ru/adv/metrika)
+- [Support](https://yandex.ru/support/metrica/ru/)
+- [Security](https://ya.cc/t/1cSZixjB3gkSva)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/yandex-metrica/](https://apis.io/providers/yandex-metrica/).
